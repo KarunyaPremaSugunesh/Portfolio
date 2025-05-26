@@ -1,0 +1,129 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Karunya Prema Sugunesh | Portfolio</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      scroll-behavior: smooth;
+    }
+    body {
+      font-family: 'Inter', sans-serif;
+      background-color: #fdf6f0;
+      color: #333;
+      line-height: 1.7;
+    }
+    header {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      background-color: rgba(253, 246, 240, 0.9);
+      display: flex;
+      justify-content: space-between;
+      padding: 1rem 2rem;
+      z-index: 1000;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    }
+    nav a {
+      margin: 0 1rem;
+      text-decoration: none;
+      color: #5a3e36;
+      font-weight: 600;
+    }
+    section {
+      padding: 6rem 2rem 4rem;
+      max-width: 1000px;
+      margin: auto;
+    }
+    h1, h2 {
+      color: #3a2e2a;
+    }
+    h2 {
+      margin-bottom: 1rem;
+      border-bottom: 2px solid #d1bfa3;
+      display: inline-block;
+    }
+    .highlight {
+      background: #e9dccc;
+      padding: 0.2rem 0.4rem;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div><strong>Karunya Prema Sugunesh</strong></div>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#certifications">Certifications</a>
+      <a href="#achievements">Achievements</a>
+      <a href="#projects">Projects</a>
+      <a href="#skills">Skills</a>
+      <a href="#volunteering">Volunteering</a>
+      <a href="#hobbies">Hobbies</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>  <section id="about">
+    <h2>About</h2>
+    <p>I am <span class="highlight">Karunya Prema Sugunesh</span>, a passionate B.Tech student in Artificial Intelligence and Data Science at Mohamed Sathak Engineering College, Kilakarai. I am the founder of <strong>Crestaura</strong>, a dual-region Shopify dropshipping business. I am actively exploring the intersection of cybersecurity, AI, and content automation.</p>
+  </section>  <section id="certifications">
+    <h2>Certifications</h2>
+    <ul>
+      <li>Certified Ethical Hacker – Cisco Networking Academy</li>
+      <li>Network Defense – Cisco Networking Academy</li>
+      <li>Junior Cybersecurity Analyst – Cisco Networking Academy</li>
+      <li>Firewall Emulator Batch – Google Developer Program</li>
+      <li>AWS Certified Machine Learning – Infosys Springboard</li>
+      <li>Digital Network Security – Alison</li>
+      <li>Google Play Store Listing Certificate</li>
+      <li>Git & GitHub – Geekster</li>
+      <li>Cybersecurity Foundation – IBM SkillBuild</li>
+      <li>TCS iON Career Edge – Young Professional</li>
+    </ul>
+  </section>  <section id="achievements">
+    <h2>Achievements</h2>
+    <ul>
+      <li>Prototype Development Camp – 5 days at KCT Coimbatore</li>
+      <li>Special Mention at Smart India Hackathon 2024</li>
+      <li>Google Developer Startup Accelerator Program participant</li>
+      <li>Active Member – Next-Gen AI Club</li>
+    </ul>
+  </section>  <section id="projects">
+    <h2>Projects</h2>
+    <h3>Smart India Hackathon 2024 – Eco-Friendly Suction-Based Flush System</h3>
+    <p>Developed a prototype integrating hardware and software using Arduino for servo-controlled flushing. Focused on water conservation through an eco-friendly suction-based system. Presented at KCT Tech Park and received a special mention for innovation and teamwork.</p>
+  </section>  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>Cybersecurity fundamentals and ethical hacking</li>
+      <li>AI and Machine Learning basics</li>
+      <li>Git & GitHub version control</li>
+      <li>Shopify dropshipping and e-commerce management</li>
+      <li>Automation and API integrations</li>
+      <li>Basic video editing and content management tools</li>
+    </ul>
+  </section>  <section id="volunteering">
+    <h2>Volunteering</h2>
+    <p>Participated in the <strong>Kushi Beach Cleanup Drive</strong> through the <strong>NSS (National Service Scheme)</strong> Camp, contributing to eco-friendly initiatives and community service.</p>
+  </section>  <section id="hobbies">
+    <h2>Hobbies</h2>
+    <ul>
+      <li>Digital content creation and video editing</li>
+      <li>Volunteering and community service</li>
+      <li>Exploring new AI and tech trends</li>
+      <li>Learning new languages – currently learning Hindi on Duolingo</li>
+    </ul>
+  </section>  <section id="contact">
+    <h2>Contact</h2>
+    <p><strong>Email:</strong> karunyaboominathan@gmail.com</p>
+    <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/karunya-prema-sugunesh-85a7b2297" target="_blank">karunya-prema-sugunesh</a></p>
+    <p><strong>GitHub:</strong> <a href="https://github.com/KarunyaPremaSugunesh" target="_blank">KarunyaPremaSugunesh</a></p>
+    <p><strong>Testimonial:</strong> "Karunya exemplifies dedication and a strong work ethic in every endeavor, consistently bringing creativity and focus to all her projects." – <em>Ruba, Head of Department & Mentor at KCT Hackathon</em></p>
+  </section>
+</body>
+</html>
